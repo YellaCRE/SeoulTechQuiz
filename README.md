@@ -1,1 +1,0 @@
-#SeoulTech_Quiz
