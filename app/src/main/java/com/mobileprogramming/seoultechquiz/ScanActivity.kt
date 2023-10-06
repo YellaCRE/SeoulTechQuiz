@@ -18,6 +18,7 @@ import com.googlecode.tesseract.android.TessBaseAPI
 import com.mobileprogramming.seoultechquiz.databinding.ActivityScanBinding
 import java.io.*
 
+ // commit test
 
 class ScanActivity : AppCompatActivity() {
     private val activityResult : ActivityResultLauncher<Intent> =
