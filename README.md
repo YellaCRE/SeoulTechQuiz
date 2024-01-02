@@ -1,4 +1,4 @@
-# SeoulTech_Quiz
+# SeoulTechQuiz
 
 서울과학기술대학교 학우들의 암기 과목 퀴즈 대비를 위한 어플리케이션입니다.
 
